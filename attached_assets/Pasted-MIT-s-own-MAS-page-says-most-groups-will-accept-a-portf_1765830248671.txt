@@ -1,0 +1,180 @@
+MIT’s own MAS page says most groups will accept a portfolio and that supplemental materials should be submitted electronically through the application system. 
+Oficina de Educación de Posgrado
+
+Where to do it (pick ONE)
+Option 1 (best + fastest): Google Slides → Export PDF
+
+Open a new deck: type slides.new in your browser
+
+File → Page setup → Custom → 8.5 x 11 (inches), Portrait
+
+Build 8–12 slides using the exact content below
+
+File → Download → PDF
+
+Upload the PDF as a Document in the MIT portal
+
+Option 2: Canva → Export PDF
+
+Create a “US Letter” document → paste the same sections → export PDF.
+
+(Keep it short: MIT CAPD recommends “less is more” and selecting a small number of relevant projects.) 
+capd.mit.edu
+
+Your portfolio (copy/paste deck) — 10 pages
+
+Make 10 slides/pages. Each “page” below is one slide.
+
+Page 1 — Cover
+
+NICOLE DORIS UNSIHUAY VILA
+Portfolio — Human-Centered Medical Devices + Edge AI for Real Care Settings
+Lima, Peru | Email: nunsihuayvila@gmail.com
+ | Phone: +51 956 402 754
+Links: (LinkedIn) (Google Scholar) (GitHub) (Website/Notion) (add if you have)
+
+Focus: point-of-care ultrasound + pediatric wearables + translational prototyping in low-resource settings.
+
+Page 2 — Research Direction (1 page)
+
+What I want to do at the Media Lab
+I build and evaluate human-centered medical technologies that work in real clinical workflows—especially in low-resource and pediatric settings. My core interests are:
+
+Edge AI for point-of-care diagnostics (ultrasound/physio signals)
+
+Design for trust, usability, and safety with non-expert users
+
+Translational prototyping: needs-finding → iterative build → validation with clinicians
+
+Remote collaboration / telemedicine pipelines that reduce geographic inequities
+
+What I bring
+
+Full-stack prototyping (hardware + software + deployment mindset)
+
+Evidence of impact (awards, publications, real-world partnerships)
+
+Research experience across sensing (EEG/EMG/ECG/ultrasound), AI, and HCI
+
+Pages 3–4 — Project 1: EcoAssist (2 pages)
+
+EcoAssist — AI-assisted ultrasound for liver/kidney identification
+One-liner: Real-time guidance for non-specialists to capture usable ultrasound images + enable teleconsultation.
+
+Context
+Resource-limited hospitals often lack expert sonographers; image quality and correct views are a bottleneck for diagnosis.
+
+My role
+Team lead / AI + application development (as you described in your CV/awards).
+
+What I did (bullets)
+
+Trained a deep learning model for kidney detection/segmentation in ultrasound
+
+Integrated inference into an application for real-time feedback during scanning
+
+Designed workflow to store original + highlighted recordings and support remote review (DICOM pipeline mentioned in your award)
+
+Evidence / outcomes (bullets)
+
+2nd Place — Johns Hopkins Healthcare Design Competition 2025 (Digital Health Track)
+
+Proof-of-concept deployment/trial in a rural hospital in Cusco (Vidawasi context)
+
+Media to place on these 2 pages (choose 3–5 total):
+
+Screenshot of UI overlay (segmentation on ultrasound)
+
+Simple system diagram: Ultrasound → capture → edge AI → overlay → storage/share
+
+One “deployment photo” (tablet/monitor setup)
+
+1 figure with example frames (before/after overlay)
+
+Pages 5–6 — Project 2: Pulpi (2 pages)
+
+Pulpi — child-centered ECG wearable for screening
+One-liner: A pediatric ECG device designed to reduce fear and improve signal quality in real screening contexts.
+
+Context
+Kids often resist clinical sensors; comfort and anxiety directly affect data quality and adoption.
+
+My role
+Co-lead designer/developer; device + narrative + prototyping.
+
+What I did
+
+Designed a child-friendly form factor (octopus-inspired) to improve acceptance
+
+Built biosignal acquisition prototype using AD8232 + ESP32
+
+Positioned the system for early screening of congenital heart disease (e.g., VSD)
+
+Coordinated prototyping/iteration for competitions and dissemination
+
+Evidence / outcomes
+
+2nd Place — Runayay Cayetano Prototype Competition 2024
+
+Presented at CNIB 2025; proceedings publication scheduled (as in CV)
+
+Patent application filed in Peru (INDECOPI) — co-inventor (pending)
+
+Media to place:
+
+1 hero photo/render of Pulpi
+
+Block diagram: electrodes → analog front-end → MCU → storage/transfer
+
+Screenshot/photo of prototype electronics
+
+Page 7 — Project 3: Markerless Motion Capture Systematic Review (1 page)
+
+Markerless motion capture for human–object interaction — systematic review
+One-liner: Synthesizing evidence on measurement error when markerless systems are used in tasks involving objects/load.
+
+My role
+Lead author; protocol design, screening, extraction, risk-of-bias, best-evidence synthesis.
+
+What I did
+
+Designed and executed structured review pipeline
+
+Focused on ecological validity: interaction tasks (lifting, loaded gait, manipulation)
+
+Identified accuracy patterns, methodological gaps, and reporting issues
+
+Converted findings into practical guidance for researchers/clinicians
+
+Outputs
+
+Manuscript in review (Technologies, MDPI)
+(Add 1 figure: PRISMA-style flow OR a “systems vs tasks” matrix screenshot.)
+
+Page 8 — Project 4: BioCosMe (1 page)
+
+BioCosMe — lip-based cosmetics with colorimetric biosensors
+Role: research + integration support at UC Davis Interactive Organisms Lab.
+What I did: contributed to materials/sensor integration and research exploration.
+Output: UbiComp/ISWC Note (2024).
+
+Media: 1 image of concept + 1 pipeline graphic.
+
+Page 9 — Project 5: EMG / Biomechanics line (1 page)
+
+Biomechanics + EMG research (PUCP Applied Robotics & Biomechanics Group)
+
+sEMG study on muscles involved in stuttering disfluencies (Sensors 2024)
+
+Smartphone posture/neck muscle activity study (IEEE INTERCON 2024)
+
+Hand exoskeleton rehabilitation project (prototype development)
+
+Media: 1 photo of experiment setup OR 1 results plot (RMS EMG / activation summary).
+
+Page 10 — Publications + Awards + Links (1 page)
+
+Selected publications (copy your list, trimmed to 6)
+Awards (top 3–4)
+Press (2–3 links)
+Skills (short line): prototyping (ESP32/AD8232), Python, ML/DL, ultrasound/ECG/EEG, usability + workflow thinking.
